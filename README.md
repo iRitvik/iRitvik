@@ -23,7 +23,7 @@ Welcome to my Profile! I am a dedicated and goal-oriented learner with Coding Sk
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | MATLAB
+- 💻 &nbsp; Python | C++ | MATLAB
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Django 
 - 🛢 &nbsp; MySQL | Oracle
 - 🔧 &nbsp; Git | GitGub
